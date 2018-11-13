@@ -15,4 +15,3 @@ deploy:
   on:
     repo: yaroslav-007/golang-prints-hello-binary-CI
     tags: true
-    all_branches: true
